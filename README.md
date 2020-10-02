@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="logo.jpg" alt="drawing" width="100"/>
+<img src="logo.jpg" alt="drawing" width="200"/>
        
 # maple
 
