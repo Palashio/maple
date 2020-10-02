@@ -7,5 +7,3 @@
 **A processing and logical encoding platform for medical images. Get the attention encodings in one-click.**
 
 </div>
-# maple
-A processing and logical encoding platform for medical images.
