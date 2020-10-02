@@ -4,7 +4,7 @@
        
 # maple
 
-**A processing and logical encoding platform for medical images. Obtain medical encodings for your tasks automatically.**
+**A processing and logical encoding platform for medical images. Get the attention encodings in one-click.**
 
 </div>
 # maple
